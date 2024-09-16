@@ -27,10 +27,12 @@ Systems.out.println("Great!")
 We are going to debug with `println` statements.
 
 ## Installation (MacOS)
+
 This is *italic* and **THIS** is bold
 
 ## Installation for (Windows)
-[This is a link](![image](https://github.com/user-attachments/assets/8190a129-349c-47af-9724-c8e5853cebc2))
+
+[This is a link](https://github.com/user-attachments/assets/8190a129-349c-47af-9724-c8e5853cebc2)
 
 
 ## Installation (BSD ot Linux)
