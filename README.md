@@ -38,4 +38,4 @@ This is *italic* and **THIS** is bold
 # Notes
 
 >[!TIP]
->This is how you make a note
+>You can make note, tip, important, warning, and caution tags
