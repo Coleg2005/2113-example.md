@@ -14,7 +14,11 @@ Systems.out.println("Great!")
 
 We are going to debug with println statements.
 
-## Installation for MacOS
+## Installation (MacOS)
 This is *italic* and **THIS** is bold
 
-## Installation for Windows
+## Installation for (Windows)
+
+## Installation (BSD ot Linux)
+
+
