@@ -37,5 +37,5 @@ This is *italic* and **THIS** is bold
 
 # Notes
 
->[!NOTE]
+>[!ANYTHING CAN GO HERE]
 >This is how you make a note
